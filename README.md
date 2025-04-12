@@ -44,6 +44,3 @@ OpenCV
 Matplotlib
 </pre>
 
-<h2>📜 License</h2>
-<p>MIT License</p>
-
